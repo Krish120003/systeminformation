@@ -245,6 +245,7 @@ export namespace Systeminformation {
     vendor: string;
     model: string;
     bus: string;
+    pciBus: string;
     vram: number;
     vramDynamic: boolean;
   }
